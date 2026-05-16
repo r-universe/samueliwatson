@@ -5,3 +5,6 @@
 [submodule "crctStepdown"]
 	path = crctStepdown
 	url = https://github.com/cran/crctStepdown
+[submodule "rts2"]
+	path = rts2
+	url = https://github.com/cran/rts2
